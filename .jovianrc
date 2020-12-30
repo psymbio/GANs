@@ -1,0 +1,10 @@
+{
+  "notebooks": {
+    "01-torch-and-numpy.ipynb": {
+      "slug": "d347fc3db91d484cbffc87a6d45baaea"
+    },
+    "zerotogans-a1.ipynb": {
+      "slug": "2d6d7e219087483eaa240d1f98661cca"
+    }
+  }
+}
